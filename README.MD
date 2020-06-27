@@ -15,7 +15,7 @@
 
 
 **Project Cloning Commands**
-> **`git clone https://github.com/tssovi/simple_user_auth_with_django.git`**
+> **`git clone https://github.com/tssovi/simple_user_auth.git`**
 >
 
 
